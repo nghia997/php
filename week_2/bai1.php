@@ -26,11 +26,7 @@
 	echo "<br>";
 	//----------------------------------------------------
 	echo "<b>Bài 4: TRIM </b><br>";
-	$trim1 = trim($trim,'m');
-	echo "Chuỗi { $trim } sau khi xóa bỏ m : ".$trim1."<br>";
-	$trim2 = strrev($trim);
-	$trim2 = ltrim($trim2,'m');
-	echo "Chuỗi sau khi đảo ngược và dùng ltrim xóa m : $trim2";
+	clearTrim($trim);
 /**
  * Function check if the string is in the other string
  * 
@@ -77,6 +73,18 @@
 		{
 			echo "False";
 		}
+	}
+/**
+ * Function Use trim to delete characters
+ * 
+ */
+	function clearTrim($trim)
+	{
+		$trim1 = trim($trim,'m');
+		echo "Chuỗi { $trim } sau khi xóa bỏ m : ".$trim1."<br>";
+		$trim2 = strrev($trim);
+		$trim2 = ltrim($trim2,'m');
+		echo "Chuỗi sau khi đảo ngược và dùng ltrim xóa m : $trim2";
 	}
 
 
