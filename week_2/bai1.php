@@ -32,7 +32,7 @@
 	$trim2 = ltrim($trim2,'m');
 	echo "Chuỗi sau khi đảo ngược và dùng ltrim xóa m : $trim2";
 /**
- * Function number 1 in first array
+ * Function check if the string is in the other string
  * 
  */
 	function seachString($name,$str)
@@ -47,6 +47,10 @@
 		}
 
 	}
+/**
+ * Function Is the input check valid
+ * 
+ */
 	function checkInput($string1, $string2,$string3)
 	{
 		if (is_string($string1) && is_string($string2) && is_string($string3))
@@ -57,6 +61,10 @@
      		throw new LogicException('<b>Invalid parameter </b>');
     	}
 	}
+/**
+ * Function string test is Multiple
+ * 
+ */
 	function checkMultiple($name)
 	{
 		$name1 = strlen($name);
