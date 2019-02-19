@@ -27,10 +27,13 @@
 	//----------------------------------------------------
 	echo "<b>Bài 4: TRIM </b><br>";
 	clearTrim($trim);
+
 /**
  * Function check if the string is in the other string
- * 
+ * @param $result holds the position of the string
+ * @return void. 
  */
+
 	function seachString($name,$str)
 	{
 		$result='';
@@ -43,10 +46,15 @@
 		}
 
 	}
+
 /**
  * Function Is the input check valid
- * 
+ * @param array $string1 to check.
+ * @param array $string2 to check.
+ * @param array $string3 to check
+ * @return void. 
  */
+
 	function checkInput($string1, $string2,$string3)
 	{
 		if (is_string($string1) && is_string($string2) && is_string($string3))
@@ -57,10 +65,14 @@
      		throw new LogicException('<b>Invalid parameter </b>');
     	}
 	}
+
 /**
  * Function string test is Multiple
- * 
+ * @param $name1 string length
+ * @param $name2 standard string length
+ * @return void. 
  */
+
 	function checkMultiple($name)
 	{
 		$name1 = strlen($name);
@@ -74,10 +86,14 @@
 			echo "False";
 		}
 	}
+
 /**
  * Function Use trim to delete characters
- * 
+ * @param $trim1 delete string m.
+ * @param $trim2 Reverse and delete m.
+ * @return void.
  */
+
 	function clearTrim($trim)
 	{
 		$trim1 = trim($trim,'m');

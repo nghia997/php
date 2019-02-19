@@ -77,6 +77,7 @@ function checkInput($array1, $array2, $array3)
  * @param array $nameArray1 to merge with $nameArray2.
  * @return void.
  */
+
 function mergeArrays($nameArray1, $nameArray2)
 {
 	
@@ -92,6 +93,7 @@ function mergeArrays($nameArray1, $nameArray2)
  * @param array $mainArray to filter even array.
  * @return void.
  */
+
 function evenArray($mainArray)
 {
     $arrayFilter = array_filter($mainArray, function ($value) {
@@ -105,12 +107,14 @@ function evenArray($mainArray)
     $result = implode(', ', $arrayFilter);
     echo '<b>' . $result . '</b><br>';
 }
+
 /**
  * Function ascending sort all of the value of the first array that exists in the mainArray.
  * @param array $array1 to find duplicate values in $mainArray.
  * @param array $mainArray for $array1 to find duplicate values.
  * @return void.
  */
+
 function increaseArray($array1, $mainArray)
 {
     $arrayResult = array_intersect($array1, $mainArray);
@@ -118,12 +122,14 @@ function increaseArray($array1, $mainArray)
     $result = implode(', ', $arrayResult);
     echo '<b>' . $result . '</b><br>';
 }
+
 /**
  * Function to sort down the beam when comparing between key and values.
  * @param array $array1 reverse key and values
  * @param array $mainArray for $array1 to find duplicate keys.
  * @return void.
  */
+
 function reductionArray($array1, $mainArray)
 {
 	$array1 = array_flip($array1);
