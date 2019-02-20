@@ -49,13 +49,13 @@
 
 /**
  * Function Is the input check valid
- * @param array $string1 to check.
- * @param array $string2 to check.
- * @param array $string3 to check
+ * @param  $string1 to check.
+ * @param  $string2 to check.
+ * @param  $string3 to check
  * @return void. 
  */
 
-	function checkInput($string1, $string2,$string3)
+	function checkInput($string1, $string2, $string3)
 	{
 		if (is_string($string1) && is_string($string2) && is_string($string3))
 		{
@@ -77,7 +77,7 @@
 	{
 		$name1 = strlen($name);
 		$name2 = mb_strlen($name);
-		if($name1!=$name2)
+		if ($name1!=$name2)
 		{
 			echo "True";
 		}
