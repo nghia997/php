@@ -12,7 +12,7 @@
 				<a href="https://github.com/nghia997/php/blob/master/week_2/bai1.php">bài 1 : String</a>
 			</li>
 			<li>
-				<a href="https://github.com/nghia997/php/blob/master/week_2/bai1.php">bài 2 : DEMO_Up load file</a>
+				<a href="https://github.com/nghia997/php/tree/master/week_2/DEMO_Upload">bài 2 : DEMO_Up load file</a>
 			</li>
 		</ul>
 	</li>
