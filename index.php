@@ -22,19 +22,19 @@
 	<li>Week_3
 		<ul>
 			<li>
-				<a href="https://github.com/nghia997/php/tree/master/week_2/DEMO_Upload">bài 1 : DEMO_Download_OpenPhp</a>
+				<a href="https://github.com/nghia997/php/blob/master/week_3/DEMO_Download_OpenPhp/DEMO_Download_OpenPHP.php">bài 1 : DEMO_Download_OpenPhp</a>
 			</li>
 			<li>
-				<a href="https://github.com/nghia997/php/tree/master/week_2/DEMO_Upload">bài 2 : DEMO_Ham_tempnam</a>
+				<a href="https://github.com/nghia997/php/tree/master/week_3/DEMO_Ham_tempnam">bài 2 : DEMO_Ham_tempnam</a>
 			</li>
 			<li>
-				<a href="https://github.com/nghia997/php/tree/master/week_2/DEMO_Upload">bài 3 : DEMO_Upload_HienND_images</a>
+				<a href="https://github.com/nghia997/php/tree/master/week_3/DEMO_Upload_HienND_images">bài 3 : DEMO_Upload_HienND_images</a>
 			</li>
 			<li>
-				<a href="https://github.com/nghia997/php/tree/master/week_2/DEMO_Upload">bài 4 : DEMO_Upload_HienND_TXT</a>
+				<a href="https://github.com/nghia997/php/tree/master/week_3/DEMO_Upload_HienND_TXT">bài 4 : DEMO_Upload_HienND_TXT</a>
 			</li>
 			<li>
-				<a href="https://github.com/nghia997/php/tree/master/week_2/DEMO_Upload">bài 5 : DEMO_Upload_SqlFile</a>
+				<a href="https://github.com/nghia997/php/tree/master/week_3/DEMO_Upload_SqlFile">bài 5 : DEMO_Upload_SqlFile</a>
 			</li>
 
 		</ul>
