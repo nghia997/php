@@ -36,6 +36,12 @@
 			<li>
 				<a href="https://github.com/nghia997/php/tree/master/week_3/DEMO_Upload_SqlFile">bài 5 : DEMO_Upload_SqlFile</a>
 			</li>
+			<li>
+				<a href="https://github.com/nghia997/php/tree/master/week_3/DEMO_MAIL">bài 6 : DEMO Gửi Mail</a>
+			</li>
+			<li>
+				<a href="https://github.com/nghia997/php/tree/master/week_3/DEMO_Tao_Cookie">bài 7 : DEMO  cookie bằng php</a>
+			</li>
 
 		</ul>
 	</li>
