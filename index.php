@@ -42,6 +42,15 @@
 			<li>
 				<a href="https://github.com/nghia997/php/tree/master/week_3/DEMO_Tao_Cookie">bài 7 : DEMO  cookie bằng php</a>
 			</li>
+			<li>
+				<a href="https://github.com/nghia997/php/tree/master/week_3/DEMO_Cookie_JS">bài 8 : DEMO  cookie bằng js</a>
+			</li>
+			<li>
+				<a href="https://github.com/nghia997/php/tree/master/week_3/DEMO_Session">bài 9 : DEMO  Session</a>
+			</li>
+			<li>
+				<a href="https://github.com/nghia997/php/tree/master/week_3/DEMO_SessionDB">bài 10 : DEMO  Session database</a>
+			</li>
 
 		</ul>
 	</li>
