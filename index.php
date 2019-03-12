@@ -57,7 +57,10 @@
 	<li>Week_4
 		<ul>
 			<li>
-				<a href="https://github.com/nghia997/php/blob/master/week_34/www">bài 1 : Tạo 2 website và xử lý </a>
+				<a href="https://github.com/nghia997/php/blob/master/week_4/www">bài 1 : Tạo 2 website và xử lý </a>
+			</li>
+			<li>
+				<a href="https://github.com/nghia997/php/blob/master/week_4/DEMO_GhiLog">bài 2 : Tạo class ghi log </a>
 			</li>
 		</ul>
 	</li>
