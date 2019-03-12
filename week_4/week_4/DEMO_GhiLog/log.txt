@@ -1,8 +1,0 @@
-[11-03-2019 11:45:00] [www.domain1.com/] : [EMERGENCY] - Emergency message
-[11-03-2019 11:45:00] [www.domain1.com/] : [ALERT] - Alert message
-[11-03-2019 11:45:00] [www.domain1.com/] : [CRITICAL] - Critical message
-[11-03-2019 11:45:00] [www.domain1.com/] : [NOTICE] - Notice message
-[11-03-2019 11:45:00] [www.domain1.com/] : [INFO] - Info message
-[11-03-2019 11:45:00] [www.domain1.com/] : [ERROR] - Error message
-[11-03-2019 11:45:00] [www.domain1.com/] : [WARNING] - Warning message
-[11-03-2019 11:45:00] [www.domain1.com/] : [DEBUG] - DEBUG message
