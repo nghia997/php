@@ -1,0 +1,32 @@
+Dung xl nua
+$(document).ready(function(){
+  $('#js-form').submit(function(event){
+    if($('#js-file').val())
+    {
+      event.preventDefault();
+      $('#load_icon').show();
+      $(this).ajaxSubmit({
+        target: '#target',
+        beforeSubmit:function(){
+          $('.progress-bar').width('0%');
+
+        },
+        uploadProgress: function(event, position, total, percentageComplete)
+        {
+          $('.progress-bar').animate({
+            width :  percentageComplete + '%'
+          },{
+            duration : 1000
+          });
+        },
+        success: function(){
+          $('#load_icon').hide();
+          $('#target').show();
+        },
+        resetForm: true
+      });
+    }
+
+    return false;
+  });
+});
