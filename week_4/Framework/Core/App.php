@@ -1,7 +1,7 @@
 <?php
 	require_once(dirname(__FILE__).'/Router.php');
 	/**
-	 * App
+	 * App 
 	 */
 	class App
 	{

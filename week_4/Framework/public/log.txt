@@ -1,0 +1,16 @@
+[26-03-2019 09:14:32] [www.domain1.com/Framework/public/] : [EMERGENCY] - Emergency message
+[26-03-2019 09:14:32] [www.domain1.com/Framework/public/] : [ALERT] - Alert message
+[26-03-2019 09:14:32] [www.domain1.com/Framework/public/] : [CRITICAL] - Critical message
+[26-03-2019 09:14:32] [www.domain1.com/Framework/public/] : [NOTICE] - Notice message
+[26-03-2019 09:14:32] [www.domain1.com/Framework/public/] : [INFO] - Info message
+[26-03-2019 09:14:32] [www.domain1.com/Framework/public/] : [ERROR] - Error message
+[26-03-2019 09:14:32] [www.domain1.com/Framework/public/] : [WARNING] - Warning message
+[26-03-2019 09:14:32] [www.domain1.com/Framework/public/] : [DEBUG] - DEBUG message
+[26-03-2019 09:14:50] [www.domain1.com/Framework/public/] : [EMERGENCY] - Emergency message
+[26-03-2019 09:14:50] [www.domain1.com/Framework/public/] : [ALERT] - Alert message
+[26-03-2019 09:14:50] [www.domain1.com/Framework/public/] : [CRITICAL] - Critical message
+[26-03-2019 09:14:50] [www.domain1.com/Framework/public/] : [NOTICE] - Notice message
+[26-03-2019 09:14:50] [www.domain1.com/Framework/public/] : [INFO] - Info message
+[26-03-2019 09:14:50] [www.domain1.com/Framework/public/] : [ERROR] - Error message
+[26-03-2019 09:14:50] [www.domain1.com/Framework/public/] : [WARNING] - Warning message
+[26-03-2019 09:14:50] [www.domain1.com/Framework/public/] : [DEBUG] - DEBUG message
